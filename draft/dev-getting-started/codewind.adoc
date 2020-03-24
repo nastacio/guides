@@ -18,10 +18,12 @@ Make sure you have "Kabanero Collections" enabled and "Appsody Stacks"
 disabled, otherwise you may see stacks with the same name and descriptions
 in the list of stack options when creating a new Codewind project.
 
+Note that the usage of the term "Collections" has since changed to "stacks" in project Kabanero and that change will soon get reflected in the Codewind user interface.
+
 .Codewind template sources 
 image::/img/guide/kab-workshop-codewind-template-sources.png[link="/img/guide/kab-workshop-codewind-template-sources.png" alt="Codewind template sources"]
 
-You’re now ready to use the Kabanero collections from within Codewind.
+You’re now ready to use the Kabanero stacks from within Codewind.
 
 === Creating a new Codewind Project
 
